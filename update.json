@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.0.0",
+  "latest_version": "1.0.0+1",
   "latest_build": 2,
-  "apk_url": "https://github.com/suongwatthana12-wq/Update.json/releases/download/v1.0.0/app-release.apk",
-  "changelog": "- បន្ថែមមុខងារ Update ក្នុងកម្មវិធី\n- កែលម្អដំណើរការ មុខងារខ្លះៗ\n- ជួសជុលបញ្ហាតិចតួច",
+  "apk_url": "https://github.com/suongwatthana12-wq/Update.json/releases/download/v1.0.+1/app-release.apk",
+  "changelog": "- មិនទាន់មានកំណែថ្មី",
   "force_update": false,
   "min_supported_build": 1
 }
